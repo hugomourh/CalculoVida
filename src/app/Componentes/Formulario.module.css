@@ -1,0 +1,28 @@
+.formulario {
+height: 150px;
+width: 400px;
+padding: 150px 150px ;
+background-color: #0099ff;
+position: absolute;
+top: 20%;
+left: 30%;
+border-radius: 19px;
+}
+  
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+
+.botao{
+    background-color: black;
+    color: white;
+    padding: 15px 35px;
+    cursor: pointer;
+    border-radius: 16px;
+    margin-top: 10px;
+    margin-left: 120px;
+}
